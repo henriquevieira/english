@@ -48,9 +48,9 @@ And you will go?
 
 ### Irregular verbs
 
-I wake at 7 o'clock today, but I want sleep more.
-We did not forgot to do our homework.
-She has not bought the books for course.
+I wake at 7 o'clock today, but I want sleep more.  
+We did not forgot to do our homework.  
+She has not bought the books for course.  
 
 
 
