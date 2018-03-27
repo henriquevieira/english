@@ -1,45 +1,43 @@
 # Teacher Rahaf
 
 ## Subject Pronoun
-I 
-He 
-She 
-It 
-We 
-They 
-You 
+I  
+He  
+She  
+It  
+We  
+They  
+You  
 
 ## Object Pronoun
-Me 
-Him 
-Her 
-It 
-Us 
-Them 
-You 
+Me  
+Him  
+Her  
+It  
+Us  
+Them  
+You  
 
 ## Possessive adj
-My
-His
-Her
-It
-Our
-Their
-Your
+My  
+His  
+Her  
+It  
+Our  
+Their  
+Your  
 
 ## Possessive pronoun
-Mine 
-His
-Hers
-Its
-...
-...
-...
+Mine  
+His  
+Hers  
+Its  
+...  
+...  
+...  
 
-exercise
+## Exercise
 
-I like music as rock and instrumental.
-He walk every day at 6 o'clock.
-She prefer chocollate that strawberries. 
-
-
+I like music as rock and instrumental.  
+He walk every day at 6 o'clock.  
+She prefer chocollate that strawberries.  
